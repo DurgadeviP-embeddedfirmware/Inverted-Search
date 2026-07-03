@@ -1,0 +1,20 @@
+#[0]
+word is [are]: file_count: 1 file: file1.txt and word_count: 1 
+word is [and]: file_count: 1 file: file1.txt and word_count: 1 
+
+#[7]
+word is [hi]: file_count: 1 file: file1.txt and word_count: 2 
+word is [hello]: file_count: 1 file: file1.txt and word_count: 1 
+
+#[12]
+word is [meet]: file_count: 1 file: file1.txt and word_count: 1 
+
+#[13]
+word is [nice]: file_count: 1 file: file1.txt and word_count: 1 
+
+#[19]
+word is [to]: file_count: 1 file: file1.txt and word_count: 1 
+
+#[24]
+word is [you]: file_count: 1 file: file1.txt and word_count: 2 
+
